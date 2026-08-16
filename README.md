@@ -42,8 +42,8 @@ AI/ML & Software Engineering enthusiast who loves building impactful projects â€
 ### ðŸ“Š GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinchanack86&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanack86&layout=compact" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sinchanack86&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sinchanack86&layout=compact" />
 </p>
 
 ---
