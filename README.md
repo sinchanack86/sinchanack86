@@ -39,15 +39,6 @@ AI/ML & Software Engineering enthusiast who loves building impactful projects �
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sinchanack86&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sinchanack86&layout=compact" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchana-c-k-915b2b253/)
